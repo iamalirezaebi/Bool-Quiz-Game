@@ -6,3 +6,6 @@ the project consists of four different files:
 #### main.py:
   in this file we convert our dictionary from the other file(data.py) to class object and append them to a list 
   for further developements of preoject
+#### question_model.py
+  in this file i defined a class named Question and initialised two objects in it; first one is text that represents the   question declaration and the second one is answer that contains answers of the questions in True/False(Boolean) format.
+####
