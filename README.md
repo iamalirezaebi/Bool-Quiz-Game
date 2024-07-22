@@ -11,3 +11,5 @@ the project consists of four different files:
 #### quiz_brain.py
   several functions are definerd in this class; at first we initialised question number and score and putheir value        equal to zero; then still_has_questions was initialised to compare the length of question_list with question_number
   next question funzction was defined to move to next question after finishing this level, and check_answer function       lowercases our user's answer and compares it with the right answer.
+#### images
+  both images are notes of tasks that i had to do in the projects in order to reach the project's goals.
